@@ -4,11 +4,22 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
+to run this app first 
+1 ) write a command in Termial npm Install => it will install all the packages.
+2 ) write the command npm start and i will navigate to the ui  
+
+
 In the project directory, you can run:
 this is the videos of my project.
+1) explanation of code
+https://github.com/Priy-ansh-jain/StratexMovie-Hub/assets/87496566/3d0af99e-6d1f-4365-80e2-906147aa1bf0
+2) about the ui and functionality 
+https://github.com/Priy-ansh-jain/StratexMovie-Hub/assets/87496566/ce34cf05-3a9a-4f8e-a89b-07d6c0f9d6d7
 
 
-https://github.com/Priy-ansh-jain/StratexMovie-Hub/assets/87496566/cdf949de-c2f4-4d93-bc4b-14ce0fc18d06
+
+
+
 
 
 
