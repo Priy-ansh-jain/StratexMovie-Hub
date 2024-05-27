@@ -5,6 +5,13 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Available Scripts
 
 In the project directory, you can run:
+this is the videos of my project.
+
+https://github.com/Priy-ansh-jain/StratexMovie-Hub/assets/87496566/3ff2d660-05d4-4390-8bfa-dbe2a11a8140
+
+https://github.com/Priy-ansh-jain/StratexMovie-Hub/assets/87496566/cdf949de-c2f4-4d93-bc4b-14ce0fc18d06
+
+
 
 ### `npm start`
 
