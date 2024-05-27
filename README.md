@@ -3,6 +3,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
+Dear Checker,
+in api there is no valid url or path for rendering image to the app.
+
 
 to run this app first 
 1 ) write a command in Termial npm Install => it will install all the packages.
